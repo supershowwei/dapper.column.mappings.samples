@@ -1,0 +1,1 @@
+# dapper.column.mappings.samples
